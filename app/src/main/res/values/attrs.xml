@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="RippleView">
+        <!--内圆半径-->
+        <attr name="center_radius" format="dimension" />
+        <!--填充色-->
+        <attr name="ripple_color" format="color" />
+    </declare-styleable>
+</resources>
